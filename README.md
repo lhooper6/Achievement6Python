@@ -14,3 +14,5 @@ pylab
 numpy
 ### Code
 The code for this analysis is available in the scripts folder of Achievement 6 Basbeall Analysis Folder. 
+### Time Series Analysis
+A time series analysis was learned during this project.  Since the data for the baseball analysis only contianed 2019 data, additional and non related data was used for the time series analysis which can be viewed in the time series folder. 
